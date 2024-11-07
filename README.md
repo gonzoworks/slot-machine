@@ -24,6 +24,7 @@ This is a browser-based slot machine game built with HTML, CSS, and JavaScript. 
 ![slot-machine-demo](https://github.com/user-attachments/assets/48acd1bc-101a-4d29-ad44-6a4b55f0cefe)
 
 ## Live link
+https://gonzoworks.github.io/slot-machine/
 
 ## Installation
 
